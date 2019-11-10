@@ -9,9 +9,12 @@ There were two reasons why I chose this particular data visualization: The Subje
 ## Process
 
 ### Wireframe
-
+![New Mockup 1](https://user-images.githubusercontent.com/54474707/68540510-430f2b00-0361-11ea-9e91-90328e86fef1.png)
 Coming up with a solution to enhance this data visualization first started with brainstorming. Even though the visualization was unique, it could be simplified. Therefore, a simple bar graph could do justice, with each bar color red or blue to indicate political association. For the bar graph, I thought a histogram with each state being compared to the "National Gun Murder Rate" could work. Next, instead of having the supplementary information/facts (i.e.: records, permits, etc.) presented in the legend, that information could be embedded in a pop-up window when hovering above each state. Then, I decided to get rid of some information including: The Overall Gun Control Score (since the links to the Brady campaign is not functional and frankly does not support their calculated numerical score), cutting the 3 iterations of the visualization to just present the states in alphabetical order, truncating the opening paragraph, and changing the title of the visualization. 
 ### Wireframe Critiques 
+<img width="591" alt="Screen Shot 2019-11-06 at 6 39 12 PM" src="https://user-images.githubusercontent.com/54474707/68540503-2541c600-0361-11ea-8122-1b02c022ecfe.png">
+
+<img width="568" alt="Screen Shot 2019-11-08 at 2 59 45 PM" src="https://user-images.githubusercontent.com/54474707/68540507-3985c300-0361-11ea-8eac-fab5ea0b2c7c.png">
 
 ### Using the Wireframe Critiques
 Viewing feedback on my wireframe created using Balsamiq, I changed my ideas on the visualization that included: 
