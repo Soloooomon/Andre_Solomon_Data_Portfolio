@@ -11,5 +11,5 @@ During the course of Mini 2, I will put major projects from "Telling Stories wit
 [Click Here](/DataViz1.md)
 ## Data Visualization 2
 [Click Here](/DataViz2.md)
-## Data Visualization 1
+## Data Visualization 3 and Data Critique 2
 [Click Here](/DataViz3andDataCritique2.md)
