@@ -24,3 +24,5 @@ Viewing feedback on my wireframe created using Balsamiq, I changed my ideas on t
 
 ##Final Visualization
 Using both my own brainstorm and critiques, I created a simplified data visualization that looks at gun murder rates for each state compared with the "National Avergage Gun Murder Rate". In the process of simplification, I hid the supplementary data and transformed it to a pop-up feature that would display when the user hovers over singular states. Because the orginal graph was showing excess information that skewed the overall message, the simplification focused soley on gun murder rates which would convey a stronger case towards geographical area having an effect on gun laws and violence. 
+
+# [Back to Home](/README.md)
