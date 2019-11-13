@@ -1,1 +1,4 @@
-
+# Final Project (Part 1)
+## Outline
+### Summary
+For the final project, I will analyze my own personal Spotify data, particularily self-curated playlists, from 2019 thus far to formulate a tailored guide that will represent musical selections for consumption in the upcoming year 2020. Besides perusing my own data, I am interested in comparing myself versus the "average" U.S. individual, in terms of each group's musical prospects for 2020. I was spured to tackle this project due to skeptism on Spotify's "Discover" playlists, which seems inconsistent and/or lacks satisfaction. In the Digital Age of the 21st Century, we have permitted computers and algorhythms to dicate choice, therefore, I am looking to present a chance to customize musical journeys that allign with individuals' specific musical tastes. Basically, implementing step-by-step instructions to carry self-analysis. Many Americans, no the world, listen to music on the daily, so why not have the best music that fits you? 
