@@ -13,3 +13,5 @@ During the course of Mini 2, I will put major projects from "Telling Stories wit
 [Click Here](/DataViz2.md)
 ## Data Visualization 3 and Data Critique 2
 [Click Here](/DataViz3andDataCritique2.md)
+## Spotify
+[Click Here](/Spotify.md)
