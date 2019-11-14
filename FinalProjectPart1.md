@@ -13,3 +13,5 @@ I believe that this will give enough content to conduct a deeper analyzation of 
 For the reader, I want them to understand the process of making intentful music selections, a way to discover music that authentically resonates with their tastes. 
 #### Call to Action
 Map your musical interests to determine what new music alligns to you personally. 
+## Initial Sketches
+![Initial Sketches](https://user-images.githubusercontent.com/54474707/68827062-cafd7980-066e-11ea-8eed-4a9e998a8f7f.png)
