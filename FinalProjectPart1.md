@@ -15,6 +15,7 @@ The project will begin looking at two datasets: Spotify's Current Top 200 Songs 
 - Top 10 Artists
 - Top 20 Albums 
 - Top 30 Songs
+
 I believe that this will give enough content to conduct a deeper analyzation of the music. (Note the same principle will be applied towards the 2020 selections). After these have been determined, I will have to do some personal digging on both what the average U.S. individual and I should listen to. Ultimately, creating two new playlist. Refering back to the guidlines, the new playlists will involve the same characteristics, enough content to have a solid musical selection for the start of the new year. 
 #### User Story/Motivation
 For the reader, I want them to understand the process of making intentful music selections, a way to discover music that authentically resonates with their tastes. 
@@ -25,12 +26,16 @@ Map your musical interests to determine what new music alligns to you personally
 ## The Data
 To my advantage, Spotify publically shares their data. The U.S. Top Charts for 2019 (Songs) can be found on Spotify's [public website](https://spotifycharts.com/regional) which shows the top charts both weekly and daily in various regions in the world. In terms of my own Spotify data anyone with an account can request their own personal data. 
 Here is the way to obtain it: 
+
 - Visit Spotify's website 
 - Go to your account page
 - Click the *Privacy* tab 
 - Scroll all the way down and view the section titled *Download your Data* 
+
 There contains a three step process where you have to 1.) Request the Data 2.) Wait for the data to be complied (30 day max) 3.) Download the data
+
 - Here is my personal Spotify data: 
+
 ### Using the Data
 As I mentioned previously, I will use both the United States' and my spotify data to structure the top favorite genres, artists, albums and songs for each participant. Overall, a way to curate two playlists, (one for the U.S. and another for myself) which will allow both parties to tap into new musical content for the start of 2020 that more efficiently guages  interest. Additionally, provide simply instructions for individuals to conduct analysis on their own; a way to give every individual the opprounity to shape their own musical journey. To create these playlists it will require me to tap into Spotify's music library and test out new content to determine if it resonates with both parties' interests.
 
