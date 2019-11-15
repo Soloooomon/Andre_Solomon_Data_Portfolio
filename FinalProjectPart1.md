@@ -8,6 +8,7 @@ Here are some examples:
 - Overwhelming Data: Since I will be collecting data from a year's worth of music it might provide challenging to complie it all
 - Project Simplicity: With the goal of curating two playlists based on interest, might be difficult to have a lot of meaningful content
 - Research: Since part of the data collection will require me to do some digging into new musical content, this could be laborious/difficult in selecting appropriate items for the playlists
+
 ### Project Structure
 The project will begin looking at two datasets: Spotify's Current Top 200 Songs from the U.S. (Pulled 11/13/19) and André Solomon's 2019 Spotify data (primarily from André created playlists). Looking at both data structures, it ultimately has to be organized into buckets: Genre/Mood, Artists, Albums, and Songs. Since the objective is to discover new songs for consumption, there will be limitations on selected songs, no songs that are found prior 2018 will not be considered. Once songs are put into buckets, the analysis of trend data will commence. For example, knowing that one of my top played genres is "Pop" then I can elimiinate genres that do not match that stipulation, and the same prinicple can be ultizied on the reamining buckets. Once the elimination process has been completed, there will be a truncated list of the trend data. Due to the massive amounts of music, there will have to be barriers on selection. Therefore, selction will be based on these guidlines:
 - Top 5 Genres
