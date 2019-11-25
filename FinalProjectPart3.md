@@ -20,3 +20,4 @@
 ### Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  Make sure to add / update any citations and / or other content that you used to create your data story.  References should also be clearly identified on your final data story itself.  (Part III)
 ### Include any other information that helps round out your data story. (Part III)
 
+# [Back to Home](/README.md)
