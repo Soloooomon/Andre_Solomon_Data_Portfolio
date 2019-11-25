@@ -18,3 +18,5 @@ During the course of Mini 2, I will put major projects from "Telling Stories wit
 [Click Here](/FinalProjectPart1.md)
 ## Part 2
 [Click Here](/FinalProjectPart2.md)
+## Part 3
+[Click Here](/FinalProjectPart3.md)
