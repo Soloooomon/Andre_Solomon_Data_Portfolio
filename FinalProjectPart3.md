@@ -40,7 +40,7 @@ To collect my thought process throughout this project, I will use the digital pl
 ### Wireframes (Part II)
 ![Page 1](https://user-images.githubusercontent.com/54474707/70177460-6ac78980-16a8-11ea-9ee4-98fd3a656726.png)
 ![Page 2](https://user-images.githubusercontent.com/54474707/70177469-6ef3a700-16a8-11ea-9210-d5f08c2ce532.png)
-## Final data story
+## Final Data Story
 ### Intended Audience (Part III)
 As this project was constructed upon two reasons: My selfish want for new music and to provide individuals access to their own music data, I did not have a specific audience in mind. However, as I progressed in this project I believe an intended audienced developed:
 
