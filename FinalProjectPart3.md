@@ -99,7 +99,7 @@ From the moment I selected my topic, I knew that I was going to love this projec
 -  [Playlist Link](https://open.spotify.com/playlist/0LzTADULRoWijSjwCdNrX7?si=icuRU4suQMa4VAA7nt_D5g)
 
 ### Project Link (Part III)
-[Final Project](https://carnegiemellon.shorthandstories.com/spotifydiscovery/index.html#group-Conclusion-ZN1Gwh9XP6)
+[Final Project](https://preview.shorthand.com/rVY8umiD1d9OBQUA)
 ### References (Part III)
 - “MagicPlaylist.” MagicPlaylist. Accessed November 2019. https://magicplaylist.co/#/?_k=n8gf2x.
 - “Discover Quickly.” Discover Quickly. Accessed November 2019. https://discoverquickly.com/.
