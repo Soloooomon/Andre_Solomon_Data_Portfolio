@@ -3,6 +3,7 @@ In conjunction with Carengie Mellon University's course *Telling Stories with Da
 
 # About Me
 ![](http://www.makemusicpittsburgh.org/wp-content/uploads/sites/15/2019/07/andre-e1562698139943-400x400.jpg)
+
 Hello, my name is André Solomon (He/Him/His) and I am originally from Methuen, Massachusetts (a small town up north from Boston). Before coming to Pittsburgh, I resided in Syracuse for 5 years. With my studies, I have a Bachelor of Arts with a Flute concentration from Syracuse University and in-candidacy at Carnegie Mellone University through Heinz College pursuing a Masters degree in Arts Management concentratating on Community Engagement. With both degrees, I hope to enforce social justice for the arts; a belief that the arts are not frivolous but a necessary component of human development. Since I am a minority in the Arts world, both as an artist and arts manager, I want to provide opportunities for people of color to visualize representation; therefore, ownership to actualize their dreams. Upon graduation, job prosepcts lie in performing arts organizations either in Arts Education or Community Engagement, while trying to balance a musical career on flute. Besides the constant flow of school, I enjoy talking walks, playing video games, working out and trying to explore hidden gems. In Pittsburgh, I have the pleasure of co-directing [Make Music PGH](http://www.makemusicpittsburgh.org), which has its annual celebration on the Summer Solstice.
 
 # What I Hope to Learn
