@@ -24,7 +24,7 @@ During the course of Fall 2019 Semester's Mini 2, I will display major assignmen
 [Click Here](/DataViz3andDataCritique2.md)
 
 # Final Project - Spotify Data 
-(*Be Mindful that this is a progression project, therefore, concepts will morph into their final form by Part III)
+*Be Mindful that this is a progression project, therefore, concepts will morph into their final form by Part III*
 ## Part I
 [Click Here](/FinalProjectPart1.md)
 ## Part II
