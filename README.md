@@ -14,7 +14,7 @@ Hello, my name is André Solomon (He/Him/His) and I am originally from Methuen, 
 # Portfolio 
 During the course of Fall 2019 Semester's Mini 2, I will display major assignments here, including a final project that describes the process of discovering new music with Spotify.
 
-## Data Visualization 1
+## Data Visualization 1 & Data Critique 1
 [Click Here](/DataViz1.md)
 
 ## Data Visualization 2
