@@ -1,4 +1,4 @@
-# Final Project (Part 2)
+# Final Project (Part II)
 ## Storyboard/Wireframe
 ![New Mockup 1](https://user-images.githubusercontent.com/54474707/69508156-e2f0bb00-0f02-11ea-842d-e35c201215f6.png)
 ![New Mockup 4](https://user-images.githubusercontent.com/54474707/69508172-f6038b00-0f02-11ea-9880-286d86831926.png)
@@ -29,7 +29,7 @@
 * Compare yourself to another individual subject
 * Talk About Other Streaming Services
 * Format Issues
-* Be clear with takeaways
+* Be Clear with Takeaways
 
 ## Revised Storyboard/Wireframe
 ![Page 1](https://user-images.githubusercontent.com/54474707/69513532-125cf300-0f16-11ea-9d0a-db238ffc9885.png)
