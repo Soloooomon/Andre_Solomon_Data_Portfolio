@@ -13,12 +13,24 @@
 ### Actual Survey
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJdhRQOwcdFuqwAzwIMLU3b_cZO95J7hB8SqW_-7f8whUnsg/viewform?embedded=true" width="640" height="1911" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ### Survey Feedback
-https://docs.google.com/spreadsheets/d/17ANL_48O7RDcH2hhp7hAF56rFcpHvBbrFDfYb9Fzqpg/edit?usp=sharing
+[Click here](https://docs.google.com/spreadsheets/d/17ANL_48O7RDcH2hhp7hAF56rFcpHvBbrFDfYb9Fzqpg/edit?usp=sharing)
 ### Reflection on Feedback
 * Because my storyboard is not flushed out yet people wanted to hear more research information
 * Since presentation will be a quick 60 sec piece, people wanted to make sure the information could be concise enough
 * More explanation on playlist creation and takeaway for audience
-* Cut out confusing images
+* Cut Out Confusing Images
+* People wondered if it is a step-by-step guide or summary
+* Make Visuals Bigger
+* Show a connection between the U.S. and yourself
+* Representation and comparisions between the top hits and low ballers
+* Get rid of the problems you faced, focus on conveying what worked
+* Word Choice and Sentence Structure
+* Include National Data
+* Compare yourself to another individual subject
+* Talk About Other Streaming Services
+* Format Issues
+* Be clear with takeaways
+
 ## Revised Storyboard/Wireframe
 ![Page 1](https://user-images.githubusercontent.com/54474707/69513532-125cf300-0f16-11ea-9d0a-db238ffc9885.png)
 ![Page 2](https://user-images.githubusercontent.com/54474707/69513560-27398680-0f16-11ea-82ca-f3f019b136ae.png)
